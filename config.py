@@ -1,0 +1,8 @@
+fakeVisitorCount = 15
+startUserID = 200000
+spreadToken = ''
+province = '其他'
+city = '其他'
+scode = 'SAIAJP'
+UAs = ['Mozilla/5.0 (iPhone; CPU iPhone OS 13_1 like Mac OS X) AppleWebKit/604.1.11 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.20(0x17000a21) NetType/WIFI Language/zh_CN','Mozilla/5.0 (Linux; U; Android 9; zh-cn; ONEPLUS A5000 Build/PKQ1.180716.001) AppleWebKit/533.1 (KHTML, like Gecko) Mobile Safari/533.1','Mozilla/5.0 (Linux; U; Android 9; zh-cn; MIX 2S Build/PKQ1.180729.001) AppleWebKit/533.1 (KHTML, like Gecko) Mobile Safari/533.1','Mozilla/5.0 (Linux; U; Android 9; en-gb; MHA-AL00 Build/HUAWEIMHA-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Mobile Safari/533.1','Mozilla/5.0 (Linux; Android 6.0.1; SM-N9100 Build/LRX22C ) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466 Tx(Tx/5.4.3) WindVane/8.0.0 750x1334','Mozilla/5.0 (Linux; Android 6.0; Azumi_IRO_A5_Q Build/MRA58K) AppleWebKit/534.30 (KHTML, like Gecko) Mobile Safari/534.30','Mozilla/5.0 (iPad; CPU OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A403 Safari/602.1','Mozilla/5.0 (iPad; CPU OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/63.0.3239.73 Mobile/14A403 Safari/602.1','Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1','Mozilla/5.0 (iPad; CPU OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15']
+
